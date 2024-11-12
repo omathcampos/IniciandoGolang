@@ -1,6 +1,6 @@
 package main
 
-import "GolangCourseUdemy/funcoes"
+import "GolangCourseUdemy/operadores"
 
 func main() {
 	//hello.Hello()
@@ -10,5 +10,6 @@ func main() {
 	//fmt.Println(erro)
 	//variaveis.Variaveis()
 	//tipos_de_dados.TiposDados()
-	funcoes.Importar()
+	//funcoes.Importar()
+	operadores.OperadoresAritmeticos()
 }
