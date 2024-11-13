@@ -1,6 +1,6 @@
 package main
 
-import "GolangCourseUdemy/operadores"
+import "GolangCourseUdemy/structs"
 
 func main() {
 	//hello.Hello()
@@ -11,5 +11,6 @@ func main() {
 	//variaveis.Variaveis()
 	//tipos_de_dados.TiposDados()
 	//funcoes.Importar()
-	operadores.OperadoresAritmeticos()
+	//operadores.OperadoresAritmeticos()
+	structs.Structs()
 }
