@@ -1,6 +1,6 @@
 package main
 
-import "GolangCourseUdemy/structs"
+import "GolangCourseUdemy/ponteiros"
 
 func main() {
 	//hello.Hello()
@@ -12,5 +12,7 @@ func main() {
 	//tipos_de_dados.TiposDados()
 	//funcoes.Importar()
 	//operadores.OperadoresAritmeticos()
-	structs.Structs()
+	//structs.Structs()
+	//herancaSqn.Heranca()
+	ponteiros.Ponteiros()
 }
