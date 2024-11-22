@@ -1,6 +1,8 @@
 package main
 
-import "GolangCourseUdemy/ponteiros"
+import (
+	"GolangCourseUdemy/maps"
+)
 
 func main() {
 	//hello.Hello()
@@ -14,5 +16,7 @@ func main() {
 	//operadores.OperadoresAritmeticos()
 	//structs.Structs()
 	//herancaSqn.Heranca()
-	ponteiros.Ponteiros()
+	// ponteiros.Ponteiros()
+	//arraysAndslices.ArraysAndSlices()
+	maps.Maps()
 }
