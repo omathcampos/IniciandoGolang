@@ -1,9 +1,5 @@
 package main
 
-import (
-	"GolangCourseUdemy/maps"
-)
-
 func main() {
 	//hello.Hello()
 	//pacotes.Main()
@@ -18,5 +14,5 @@ func main() {
 	//herancaSqn.Heranca()
 	// ponteiros.Ponteiros()
 	//arraysAndslices.ArraysAndSlices()
-	maps.Maps()
+	//ifElse.EstruturaDeControle()
 }
