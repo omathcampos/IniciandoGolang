@@ -12,7 +12,7 @@ func Conectar() (*sql.DB, error) {
 	if erro != nil {
 		return nil, erro
 	}
-	defer db.Close()
+	// defer db.Close()
 
 	if erro = db.Ping(); erro != nil {
 		return nil, erro
